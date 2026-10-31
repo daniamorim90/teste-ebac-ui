@@ -14,7 +14,7 @@ describe('Funcionalidade Pré-cadastro', () => {
 
         cy.get('#reg_email').type(emailFaker)
         cy.get('#reg_password').type('teste@teste.br')
-        cy.get(':nth-child(4) > .button').click()
+        cy.get('input[name="register"]').click()
 
         cy.get('.woocommerce-MyAccount-navigation-link--edit-account > a').click()
         cy.get('#account_first_name').type(nomeFaker)

@@ -1,7 +1,9 @@
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
+  video: true,
   experimentalRunAllSpecs: true,
+  
   e2e: {
      baseUrl: 'http://lojaebac.ebaconline.art.br',
     specPattern: "cypress/e2e/**/*.spec.js",
