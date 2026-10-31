@@ -1,0 +1,41 @@
+[
+    {
+        "nome": "Dani",
+        "sobrenome": "Firmino",
+        "empresa": "EBAC",
+        "pais": "Brasil",
+        "endereco": "Rua das Amelias",
+        "numero": "Apto 101",
+        "cidade": "Jundiai",
+        "estado": "São Paulo",
+        "cep": "14500-120",
+        "telefone": "11-998521578",
+        "email": "dani.firmino@ebac.com.br"
+    },
+    {
+        "nome": "carlos",
+        "sobrenome": "Amorim",
+        "empresa": "SEF",
+        "pais": "Brasil",
+        "endereco": "Rua das Soldados",
+        "numero": "101",
+        "cidade": "Sorocaba",
+        "estado": "São Paulo",
+        "cep": "14500-126",
+        "telefone": "11-998521896",
+        "email": "carlos@teste.com.br"
+    },
+    {
+        "nome": "Amora",
+        "sobrenome": "Firmino",
+        "empresa": "Wiskas",
+        "pais": "Brasil",
+        "endereco": "AV dos Palmares",
+        "numero": "26",
+        "cidade": "Bauru",
+        "estado": "São Paulo",
+        "cep": "14500-235",
+        "telefone": "11-998535698",
+        "email": "amora.firmino@wiskas.com.br"
+    }
+]
